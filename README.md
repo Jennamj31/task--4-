@@ -1,7 +1,7 @@
 # 📡 Task 5: Capture and Analyze Network Traffic Using Wireshark
 
 ## 🎯 Objective
-The goal of this task was to capture live network traffic using **Wireshark**, apply protocol-based filters, and analyze key packet structures. This practical exercise enhances understanding of internet protocols, encrypted vs unencrypted communications, and forensic traffic analysis techniques.
+To perform real-time network traffic analysis using Wireshark, identify key protocols, and gain hands-on experience with packet capture, inspection, and filtering.
 ---
 
 ## 🛠️ Tools Used
